@@ -1,3 +1,3 @@
 # My-1st-project
 Press the link to view live demo👇
-clouds.bitsathy.ac.in
+https://clouds.bitsathy.ac.in/
